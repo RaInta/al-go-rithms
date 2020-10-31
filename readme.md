@@ -59,6 +59,8 @@ Clean example implementations of data structures and algorithms written in diffe
    * [Visual Algorithm - visualising data structures and algorithms through animation](https://visualgo.net/en)
    * [Java Algorithms - Geeks For Geeks](https://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/)
    * [Data Structure and Algorithms Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+   * [Best Data structures and algorithms Tutorials - Coursesity](https://coursesity.com/best-tutorials-learn/data-structure-algorithm)
+
 * **Online classes (Free)**
   * Coursera 
       * [Introduction to algorithms Part 1](https://www.coursera.org/learn/introduction-to-algorithms)
@@ -108,6 +110,7 @@ Clean example implementations of data structures and algorithms written in diffe
     * [CoderByte](https://coderbyte.com/)
     * [Geeks For Geeks](https://practice.geeksforgeeks.org)
     * [Kattis](https://open.kattis.com/)
+    * [Codility](https://www.codility.com/)
 
 ## License
 
